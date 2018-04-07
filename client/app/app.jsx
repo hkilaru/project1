@@ -5,6 +5,7 @@ class App extends React.Component {
 
 	testFunc(){
 		console.log("WOOT");
+		console.log("hopefully this works");
 	}
 
 	render(){
